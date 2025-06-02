@@ -1,0 +1,631 @@
+=== Registration attempt 2025-05-06 18:55:42 ===
+POST data: Array
+(
+    [name] => Faria
+    [phone] => 01921645825
+    [email] => brac@gmail.com
+    [password] => 12345
+    [address] => Jatrabari,
+    [user_type] => technician
+    [technician_type] => cleaner
+    [register] => 
+)
+
+Password and address are set
+Processed data - Name: Faria, Email: brac@gmail.com, User Type: technician, Technician Type: cleaner
+Processing as technician
+Technician registration successful! ID: 1
+Registration process completed
+
+=== Registration attempt 2025-05-06 18:59:10 ===
+POST data: Array
+(
+    [name] => Faria
+    [phone] => 01921645825
+    [email] => siddiquefaria86@gmail.com
+    [password] => Faria1234
+    [address] => Savar
+    [user_type] => customer
+    [technician_type] => 
+    [register] => 
+)
+
+Password and address are set
+Processed data - Name: Faria, Email: siddiquefaria86@gmail.com, User Type: customer, Technician Type: 
+Processing as customer
+Customer registration successful! ID: 1
+Registration process completed
+
+=== Registration attempt 2025-05-06 18:59:54 ===
+POST data: Array
+(
+    [name] => Faria
+    [phone] => 01921645825
+    [email] => siddiquefaria86@gmail.com
+    [password] => Faria1234
+    [address] => Savar
+    [user_type] => customer
+    [technician_type] => 
+    [register] => 
+)
+
+Password and address are set
+Processed data - Name: Faria, Email: siddiquefaria86@gmail.com, User Type: customer, Technician Type: 
+Processing as customer
+Customer registration failed: Duplicate entry 'siddiquefaria86@gmail.com' for key 'email'
+Registration process completed
+
+=== Registration attempt 2025-05-06 19:00:18 ===
+POST data: Array
+(
+    [name] => Rafsan
+    [phone] => 01871-500600
+    [email] => rafsanrashid7@gmail.com
+    [password] => Rafsan114
+    [address] => Jatrabari, Dhaka
+    [user_type] => technician
+    [technician_type] => plumber
+    [register] => 
+)
+
+Password and address are set
+Processed data - Name: Rafsan, Email: rafsanrashid7@gmail.com, User Type: technician, Technician Type: plumber
+Processing as technician
+Technician registration successful! ID: 2
+Registration process completed
+
+=== Registration attempt 2025-05-06 19:37:03 ===
+POST data: Array
+(
+    [name] => Naznin
+    [phone] => 01818506060
+    [email] => naznin@gmail.com
+    [password] => Naznin1970
+    [address] => Jatrabari, Dhaka
+    [user_type] => customer
+    [technician_type] => 
+    [register] => 
+)
+
+Password and address are set
+Processed data - Name: Naznin, Email: naznin@gmail.com, User Type: customer, Technician Type: 
+Processing as customer
+Customer registration successful! ID: 3
+Registration process completed
+
+=== Registration attempt 2025-05-06 19:47:10 ===
+POST data: Array
+(
+    [name] => Database
+    [phone] => 1231414
+    [email] => brac@gmail.com
+    [password] => 12345
+    [address] => Brac
+    [user_type] => customer
+    [technician_type] => 
+    [register] => 
+)
+
+Password and address are set
+Processed data - Name: Database, Email: brac@gmail.com, User Type: customer, Technician Type: 
+Processing as customer
+Customer registration successful! ID: 4
+Registration process completed
+
+=== Registration attempt 2025-05-06 21:49:19 ===
+POST data: Array
+(
+    [name] => Abrar 
+    [phone] => 06969
+    [email] => masud@gmail.com
+    [password] => Chodu101
+    [address] => Gazabazar
+    [user_type] => technician
+    [technician_type] => cleaner
+    [register] => 
+)
+
+Password and address are set
+Processed data - Name: Abrar , Email: masud@gmail.com, User Type: technician, Technician Type: cleaner
+Processing as technician
+Technician registration successful! ID: 3
+Registration process completed
+
+=== Registration attempt 2025-05-06 20:15:20 ===
+POST data: Array
+(
+    [name] => Faria 
+    [phone] => 01921645825
+    [email] => siddiquefaria86@gmail.com
+    [password] => Faria1234
+    [address] => Savar
+    [user_type] => customer
+    [technician_type] => 
+    [register] => 
+)
+
+Password and address are set
+Processed data - Name: Faria , Email: siddiquefaria86@gmail.com, User Type: customer, Technician Type: 
+Processing as customer
+Customer registration successful! ID: 1
+Registration process completed
+
+=== Registration attempt 2025-05-06 20:16:15 ===
+POST data: Array
+(
+    [name] => Rafsan
+    [phone] => 01871500600
+    [email] => rafsanrashid7@gmail.com
+    [password] => Rafsan114
+    [address] => Jatrabari
+    [user_type] => technician
+    [technician_type] => cleaner
+    [register] => 
+)
+
+Password and address are set
+Processed data - Name: Rafsan, Email: rafsanrashid7@gmail.com, User Type: technician, Technician Type: cleaner
+Processing as technician
+Technician registration successful! ID: 1
+Registration process completed
+
+=== Registration attempt 2025-05-06 20:20:08 ===
+POST data: Array
+(
+    [name] => Maliha 
+    [phone] => 01818
+    [email] => maliha@gmail.com
+    [password] => Maliha1234
+    [address] => Savar
+    [user_type] => customer
+    [technician_type] => 
+    [register] => 
+)
+
+Password and address are set
+Processed data - Name: Maliha , Email: maliha@gmail.com, User Type: customer, Technician Type: 
+Processing as customer
+Customer registration successful! ID: 2
+Registration process completed
+
+=== Registration attempt 2025-05-07 10:00:46 ===
+POST data: Array
+(
+    [name] => Tahmid
+    [phone] => 01950649740
+    [email] => tahmid@gmail.com
+    [password] => Tahmid1234
+    [address] => Badda
+    [user_type] => technician
+    [technician_type] => plumber
+    [register] => 
+)
+
+Password and address are set
+Processed data - Name: Tahmid, Email: tahmid@gmail.com, User Type: technician, Technician Type: plumber
+Processing as technician
+Technician registration successful! ID: 2
+Registration process completed
+
+=== Registration attempt 2025-05-07 12:23:12 ===
+POST data: Array
+(
+    [name] => Harun
+    [phone] => 01844494000
+    [email] => harun@gmail.com
+    [password] => Harun1470
+    [address] => Jatrabari
+    [user_type] => technician
+    [technician_type] => electrician
+    [register] => 
+)
+
+Password and address are set
+Processed data - Name: Harun, Email: harun@gmail.com, User Type: technician, Technician Type: electrician
+Processing as technician
+Technician registration successful! ID: 4
+Registration process completed
+
+=== Registration attempt 2025-05-07 12:24:41 ===
+POST data: Array
+(
+    [name] => Rafsan
+    [phone] => 01871-500600
+    [email] => rafsanrashid7@gmail.com
+    [password] => Rafsan114
+    [address] => Jatrabari, Dhaka
+    [user_type] => technician
+    [technician_type] => carpenter
+    [register] => 
+)
+
+Password and address are set
+Processed data - Name: Rafsan, Email: rafsanrashid7@gmail.com, User Type: technician, Technician Type: carpenter
+Processing as technician
+Technician registration failed: Duplicate entry 'rafsanrashid7@gmail.com' for key 'email'
+Registration process completed
+
+=== Registration attempt 2025-05-07 12:32:34 ===
+POST data: Array
+(
+    [name] => Heea
+    [phone] => 01862626263
+    [email] => heea@gmail.com
+    [password] => Heea1234
+    [address] => Jatrabari, Dhaka
+    [user_type] => customer
+    [technician_type] => 
+    [register] => 
+)
+
+Password and address are set
+Processed data - Name: Heea, Email: heea@gmail.com, User Type: customer, Technician Type: 
+Processing as customer
+Customer registration successful! ID: 5
+=== Registration attempt 2025-05-07 12:33:12 ===
+POST data: Array
+(
+    [name] => Heea
+    [phone] => 01862626263
+    [email] => heea@gmail.com
+    [password] => Heeadafoafw
+    [address] => Savar
+    [user_type] => customer
+    [technician_type] => 
+    [register] => 
+)
+
+Password and address are set
+Processed data - Name: Heea, Email: heea@gmail.com, User Type: customer, Technician Type: 
+Processing as customer
+Registration failed: User already exists
+Registration process completed
+
+=== Registration attempt 2025-05-07 12:37:17 ===
+POST data: Array
+(
+    [name] => Heea
+    [phone] => 01862626263
+    [email] => heea@gmail.com
+    [password] => Heeadafoafw
+    [address] => Savar
+    [user_type] => customer
+    [technician_type] => 
+    [register] => 
+)
+
+Password and address are set
+Processed data - Name: Heea, Email: heea@gmail.com, User Type: customer, Technician Type: 
+Processing as customer
+Registration failed: User already exists
+Registration process completed
+
+=== Registration attempt 2025-05-07 12:40:47 ===
+POST data: Array
+(
+    [name] => Heea
+    [phone] => 01862626263
+    [email] => heea@gmail.com
+    [password] => Heeadafoafw
+    [address] => Savar
+    [user_type] => customer
+    [technician_type] => 
+    [register] => 
+)
+
+Password and address are set
+Processed data - Name: Heea, Email: heea@gmail.com, User Type: customer, Technician Type: 
+Processing as customer
+Registration failed: User already exists
+Registration process completed
+
+=== Registration attempt 2025-05-07 12:41:29 ===
+POST data: Array
+(
+    [name] => Heea
+    [phone] => 01862626263
+    [email] => heea@gmail.com
+    [password] => fafafawf&2F
+    [address] => Gazabazar
+    [user_type] => customer
+    [technician_type] => 
+    [register] => 
+)
+
+Password and address are set
+Processed data - Name: Heea, Email: heea@gmail.com, User Type: customer, Technician Type: 
+Processing as customer
+Registration failed: User already exists
+Registration process completed
+
+=== Registration attempt 2025-05-07 12:44:01 ===
+POST data: Array
+(
+    [name] => Heea
+    [phone] => 01862626263
+    [email] => heea@gmail.com
+    [password] => fafafawf&2F
+    [address] => Gazabazar
+    [user_type] => customer
+    [technician_type] => 
+    [register] => 
+)
+
+Processing as customer
+Registration failed: User already exists
+Registration process completed
+
+=== Registration attempt 2025-05-07 12:44:06 ===
+POST data: Array
+(
+    [name] => Heea
+    [phone] => 01862626263
+    [email] => heea@gmail.com
+    [password] => fafafawf&2F
+    [address] => Gazabazar
+    [user_type] => customer
+    [technician_type] => 
+    [register] => 
+)
+
+Processing as customer
+Registration failed: User already exists
+Registration process completed
+
+=== Registration attempt 2025-05-07 12:44:16 ===
+POST data: Array
+(
+    [name] => Heea
+    [phone] => 01862626263
+    [email] => heea@gmail.com
+    [password] => iouoou
+    [address] => Gazabazar
+    [user_type] => customer
+    [technician_type] => 
+    [register] => 
+)
+
+Processing as customer
+Registration failed: User already exists
+Registration process completed
+
+=== Registration attempt 2025-05-07 12:44:52 ===
+POST data: Array
+(
+    [name] => Bro
+    [phone] => 018186
+    [email] => bro@gmail.com
+    [password] => Bro1234
+    [address] => Gazabazar
+    [user_type] => technician
+    [technician_type] => cleaner
+    [register] => 
+)
+
+Processing as technician
+Technician registration successful! ID: 6
+=== Registration attempt 2025-05-07 12:04:04 ===
+POST data: Array
+(
+    [name] => Goku
+    [phone] => 5678
+    [email] => goku@gmail.com
+    [password] => Goku1234
+    [address] => Earth
+    [user_type] => technician
+    [technician_type] => plumber
+    [register] => 
+)
+
+Processing as technician
+Technician registration successful! ID: 3
+=== Registration attempt 2025-05-07 16:19:47 ===
+POST data: Array
+(
+    [name] => Tahmid
+    [phone] => 01950649740
+    [email] => tahmid@gmail.com
+    [password] => Tahmid1234
+    [address] => Badda
+    [user_type] => technician
+    [technician_type] => plumber
+    [register] => 
+)
+
+Processing as technician
+Technician registration successful! ID: 4
+=== Registration attempt 2025-05-08 14:50:33 ===
+POST data: Array
+(
+    [name] => Rafsan
+    [phone] => 01871500600
+    [email] => rafsanrashid7@gmail.com
+    [password] => Rafsan114
+    [address] => Jatrabari
+    [user_type] => technician
+    [technician_type] => plumber
+    [register] => 
+)
+
+Processing as technician
+Technician registration successful! ID: 1
+=== Registration attempt 2025-05-08 14:51:15 ===
+POST data: Array
+(
+    [name] => Faria
+    [phone] => 01921645825
+    [email] => siddiquefaria86@gmail.com
+    [password] => Faria1234
+    [address] => Savar
+    [user_type] => customer
+    [technician_type] => 
+    [register] => 
+)
+
+Processing as customer
+Customer registration successful! ID: 1
+=== Registration attempt 2025-05-08 15:23:17 ===
+POST data: Array
+(
+    [name] => Faria
+    [phone] => 01921645825
+    [email] => faria@gmail.com
+    [password] => Faria1234
+    [address] => Savar
+    [user_type] => customer
+    [technician_type] => 
+    [register] => 
+)
+
+Processing as customer
+Customer registration successful! ID: 1
+=== Registration attempt 2025-05-08 15:23:39 ===
+POST data: Array
+(
+    [name] => Rafsan
+    [phone] => 01871500600
+    [email] => rafsan@gmail.com
+    [password] => Rafsan1234
+    [address] => Jatrabari
+    [user_type] => technician
+    [technician_type] => electrician
+    [register] => 
+)
+
+Processing as technician
+Technician registration successful! ID: 1
+=== Registration attempt 2025-05-26 08:17:06 ===
+POST data: Array
+(
+    [name] => Abrar Masud
+    [phone] => 01700612403
+    [email] => abrar@gmail.com
+    [password] => Abrar#1234
+    [address] => 49, East Razabazar,Farmgate(infront of Nazneen School), Apartment-A1
+    [user_type] => technician
+    [technician_type] => plumber
+    [register] => 
+)
+
+Processing as technician
+Technician registration successful! ID: 1
+=== Registration attempt 2025-05-26 08:18:52 ===
+POST data: Array
+(
+    [name] => Rafsan
+    [phone] => 01871500600
+    [email] => rafsanrashid7@gmail.com
+    [password] => Rafsa
+    [address] => Jatrabari
+    [user_type] => customer
+    [technician_type] => 
+    [register] => 
+)
+
+Processing as customer
+Customer registration successful! ID: 1
+=== Registration attempt 2025-05-26 08:44:13 ===
+POST data: Array
+(
+    [name] => Abrar Masud
+    [phone] => 01700612403
+    [email] => abrar@gmail.com
+    [password] => 123456
+    [address] => 49, East Razabazar,Farmgate(infront of Nazneen School), Apartment-A1
+    [user_type] => customer
+    [technician_type] => 
+    [register] => 
+)
+
+Processing as customer
+Customer registration successful! ID: 1
+=== Registration attempt 2025-05-26 08:45:04 ===
+POST data: Array
+(
+    [name] => Rafsan
+    [phone] => 01871500600
+    [email] => rafsan@gmail.com
+    [password] => 123456
+    [address] => oathhoafhnoafh
+    [user_type] => technician
+    [technician_type] => carpenter
+    [register] => 
+)
+
+Processing as technician
+Technician registration successful! ID: 1
+=== Registration attempt 2025-05-26 09:23:15 ===
+POST data: Array
+(
+    [name] => Faria
+    [phone] => 019
+    [email] => faria@gmail.com
+    [password] => 123456
+    [address] => Savar, gram
+    [user_type] => customer
+    [technician_type] => 
+    [register] => 
+)
+
+Processing as customer
+Customer registration successful! ID: 2
+=== Registration attempt 2025-06-02 04:43:04 ===
+POST data: Array
+(
+    [name] => Heea
+    [phone] => 01862626263
+    [email] => heea@gmail.com
+    [password] => heea1234
+    [address] => Jatrabari
+    [user_type] => technician
+    [technician_type] => cleaner
+    [register] => 
+)
+
+Processing as technician
+Technician registration successful! ID: 1
+=== Registration attempt 2025-06-02 04:43:23 ===
+POST data: Array
+(
+    [name] => Rafsan
+    [phone] => 01871500600
+    [email] => rafsan@gmail.com
+    [password] => Rafsan1234
+    [address] => Jatrabari
+    [user_type] => customer
+    [technician_type] => 
+    [register] => 
+)
+
+Processing as customer
+Customer registration successful! ID: 1
+=== Registration attempt 2025-06-02 04:43:48 ===
+POST data: Array
+(
+    [name] => Faria
+    [phone] => 01921645825
+    [email] => faria@gmail.com
+    [password] => faria1234
+    [address] => Savar
+    [user_type] => customer
+    [technician_type] => 
+    [register] => 
+)
+
+Processing as customer
+Customer registration successful! ID: 2
+=== Registration attempt 2025-06-02 04:44:23 ===
+POST data: Array
+(
+    [name] => Masud
+    [phone] => 241
+    [email] => masud@gmail.com
+    [password] => masud1234
+    [address] => Gajabazar
+    [user_type] => technician
+    [technician_type] => plumber
+    [register] => 
+)
+
+Processing as technician
+Technician registration successful! ID: 2
