@@ -7,8 +7,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email = $_POST['email'];
     $password = $_POST['password'];
 
+
+
+
     // Check if the login is for the admin
-    if ($email === 'admin@brac.bd' && $password === '370') {
+    if ($email === 'rafsanrashid7@gmail.com' && $password === 'Rafsan1234') {
         // Start session for admin login
         session_start();
         $_SESSION['user_id'] = 'admin';  // Set user_id to 'admin' for admin login
